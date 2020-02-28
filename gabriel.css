@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu&display=swap");
+body {
+    font-family: 'Oswald', ;
+    font-size: 1.2em;
+}
+
+.text-title {
+    font-size: 5em;
+    color: #1e90ff;
+    font-family: 'Ubuntu';
+}
+
+.bg-title {
+    background-image: linear-gradient(to bottom right, #ff9f43, #ee5253);
+}
