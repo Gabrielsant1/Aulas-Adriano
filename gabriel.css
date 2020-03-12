@@ -29,3 +29,7 @@ body {
 .bg-footer {
     background: #ff9f43;
 }
+
+.bg-nav {
+    background-image: linear-gradient(to bottom right, #4a1956, #a813a8);
+}
