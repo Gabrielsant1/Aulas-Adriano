@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Oswald&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Patua+One&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Noto+Sans&display=swap");
+
 body {
     font-family: 'Oswald', ;
     font-size: 1.2em;
@@ -20,16 +21,16 @@ body {
 
 .bg-title {
     /*background-image: linear-gradient(to bottom right, #ff9f43, #ee5253);*/
-    background: url('../Aulas-Adriano/img/banner2.jpg') center center no-repeat;
+    background: url('../img/banner3.jpg') center center no-repeat;
     background-size: cover;
 }
 
 
 
 .bg-footer {
-    background: #ff9f43;
+    background-image: linear-gradient(to bottom right, #da1821, #880022);
 }
 
 .bg-nav {
-    background-image: linear-gradient(to bottom right, #4a1956, #a813a8);
+    background-image: linear-gradient(to bottom right, #9e0e2d, #f32b35);
 }
