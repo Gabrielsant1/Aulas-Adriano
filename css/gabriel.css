@@ -1,36 +1,48 @@
-@import url("https://fonts.googleapis.com/css?family=Oswald&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Patua+One&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Noto+Sans&display=swap");
-
+@import url('https://fonts.googleapis.com/css?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abel&display=swap');
 body {
-    font-family: 'Oswald', ;
+    font-family: 'Abel', sans-serif;
     font-size: 1.2em;
 }
 
 .text-title {
-    font-size: 6.5em;
-    color: blanchedalmond;
-    font-family: 'Patua One', cursive;
+    font-family: 'Concert One', cursive;
+    font-size: 8rem;
+    color: #fff;
 }
 
-.text-sub {
-    font-size: 1.5em;
-    color: blanchedalmond;
-    font-family: 'Noto Sans', sans-serif;
+.text-subtitle {
+    font-family: 'Abel', sans-serif;
+    font-size: 2rem;
+    color: #fff;
+}
+
+.text-title-xs {
+    font-family: 'Concert One', cursive;
+    font-size: 4rem;
+    color: #fff;
+}
+
+.text-subtitle-xs {
+    font-family: 'Abel', sans-serif;
+    font-size: 1rem;
+    color: #fff;
 }
 
 .bg-title {
-    /*background-image: linear-gradient(to bottom right, #ff9f43, #ee5253);*/
-    background: url('../img/banner3.jpg') center center no-repeat;
+    background: url('../img/banner.jpg') center center no-repeat;
     background-size: cover;
 }
 
-
+.bg-title-xs {
+    /*background-image: linear-gradient(to bottom right, #2d3436, #e84393);*/
+    background: url('../img/banner2.jpg') center center no-repeat;
+}
 
 .bg-footer {
-    background-image: linear-gradient(to bottom right, #da1821, #880022);
+    background-image: linear-gradient(to bottom right, #2d3436, #0984e3);
 }
 
 .bg-nav {
-    background-image: linear-gradient(to bottom right, #9e0e2d, #f32b35);
+    background-image: linear-gradient(to bottom right, #2d3436, #2d3436);
 }
