@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=swap');
+.text-header {
+    font-family: 'DM Mono', monospace;
+}
+
+.bg-header {
+    background-image: url('../img/banner.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+
+.bg-mobile {
+    background-image: linear-gradient(to left top, #dd349c, #e22b3a);
+}
