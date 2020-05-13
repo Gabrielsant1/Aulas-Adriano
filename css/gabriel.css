@@ -30,12 +30,12 @@ body {
 }
 
 .bg-title {
-    background: url('../img/banner.jpg') center center no-repeat;
+    background: url('../img/banner5.png') center center no-repeat;
     background-size: cover;
 }
 
 .bg-title-xs {
-    background: url('../img/banner2.jpg') center center no-repeat;
+    background-image: linear-gradient(to left top, #D9078F, #07D9C4);
 }
 
 .bg-footer {
